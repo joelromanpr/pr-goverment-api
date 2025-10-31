@@ -1,0 +1,48 @@
+[
+  {
+    "id": "school-001",
+    "name": "Escuela Superior Central de Artes Visuales",
+    "municipality": "San Juan",
+    "district": "San Juan I",
+    "type": "Public High School",
+    "address": "Ave. Ponce de León #1500, San Juan, PR 00907",
+    "phone": "787-722-2222",
+    "website": "http://www.de.pr.gov/escuelas/escuela-superior-central-de-artes-visuales/",
+    "student_count": 550,
+    "principal_name": "Maria Rodriguez",
+    "programs": ["Visual Arts", "Performing Arts", "Music"],
+    "latitude": 18.4480,
+    "longitude": -66.0700
+  },
+  {
+    "id": "school-002",
+    "name": "Escuela Elemental Dr. Rafael Pujals",
+    "municipality": "Ponce",
+    "district": "Ponce II",
+    "type": "Public Elementary School",
+    "address": "Calle Mayor #123, Ponce, PR 00730",
+    "phone": "787-840-1111",
+    "website": "http://www.de.pr.gov/escuelas/escuela-elemental-dr-rafael-pujals/",
+    "student_count": 300,
+    "principal_name": "Carlos Rivera",
+    "programs": ["Bilingual Education"],
+    "latitude": 18.0110,
+    "longitude": -66.6140
+  },
+  {
+    "id": "school-003",
+    "name": "Escuela Vocacional Miguel Such",
+    "municipality": "San Juan",
+    "district": "San Juan II",
+    "type": "Public Vocational High School",
+    "address": "Ave. Barbosa #1000, San Juan, PR 00926",
+    "phone": "787-765-3333",
+    "website": "http://www.de.pr.gov/escuelas/escuela-vocacional-miguel-such/",
+    "student_count": 700,
+    "principal_name": "Ana Soto",
+    "programs": ["Automotive", "Culinary Arts", "Cosmetology"],
+    "latitude": 18.4090,
+    "longitude": -66.0480
+  }
+  // ... add more schools
+]

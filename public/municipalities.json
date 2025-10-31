@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "San Juan",
+    "region": "Metro",
+    "population": 342259,
+    "area_sq_mi": 76.93,
+    "capital": true,
+    "founding_year": 1521,
+    "brief_history": "Founded by Juan Ponce de León, San Juan is the oldest continuously inhabited European-established settlement in Puerto Rico and the second oldest in the Americas.",
+    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_San_Juan%2C_Puerto_Rico.svg/1280px-Flag_of_San_Juan%2C_Puerto_Rico.svg.png",
+    "seal_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Escudo_de_San_Juan%2C_Puerto_Rico.svg/800px-Escudo_de_San_Juan%2C_Puerto_Rico.svg.png"
+  },
+  {
+    "id": 2,
+    "name": "Ponce",
+    "region": "Sur",
+    "population": 137491,
+    "area_sq_mi": 115.98,
+    "capital": false,
+    "founding_year": 1692,
+    "brief_history": "Known as the 'Pearl of the South', Ponce is Puerto Rico's second-largest city and a major cultural and economic center.",
+    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Ponce%2C_Puerto_Rico.svg/1280px-Flag_of_Ponce%2C_Puerto_Rico.svg.png",
+    "seal_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Escudo_de_Ponce%2C_Puerto_Rico.svg/800px-Escudo_de_Ponce%2C_Puerto_Rico.svg.png"
+  },
+  {
+    "id": 3,
+    "name": "Mayagüez",
+    "region": "Oeste",
+    "population": 73077,
+    "area_sq_mi": 76.16,
+    "capital": false,
+    "founding_year": 1760,
+    "brief_history": "Often called 'La Sultana del Oeste' (The Sultaness of the West), Mayagüez is a significant port city and home to a major university campus.",
+    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Mayag%C3%BCez%2C_Puerto_Rico.svg/1280px-Flag_of_Mayag%C3%BCez%2C_Puerto_Rico.svg.png",
+    "seal_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Escudo_de_Mayag%C3%BCez%2C_Puerto_Rico.svg/800px-Escudo_de_Mayag%C3%BCez%2C_Puerto_Rico.svg.png"
+  }
+  // ... add all 78 municipalities
+]

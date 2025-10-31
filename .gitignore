@@ -23,5 +23,24 @@
 hs_err_pid*
 replay_pid*
 
+.idea
 # Kotlin Gradle plugin data, see https://kotlinlang.org/docs/whatsnew20.html#new-directory-for-kotlin-data-in-gradle-projects
 .kotlin/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+.env
+.DS_Store
+Thumbs.db
+
+# Firebase
+.firebase/
+firebase-debug.log
+
+# Editor/IDE specific
+.vscode/
+
+# Temporary files
+tmp/
