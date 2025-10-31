@@ -1,698 +1,274 @@
 {
   "last_updated": "2025-10-30",
   "executive_branch": {
+    "name": "Executive Branch",
+    "description": "The Executive Branch is responsible for implementing and enforcing the laws of Puerto Rico. It is headed by the Governor and includes the cabinet secretaries and various public agencies.",
     "governor": {
       "name": "Jenniffer González-Colón",
       "position": "Governor",
       "role_description": "The chief executive of Puerto Rico, responsible for overseeing the executive branch, signing bills into law, and representing the Commonwealth.",
-      "name": "Jenniffer González-Colón",
-      "position": "Governor",
       "party": "New Progressive Party (PNP)",
       "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Official_portrait_of_Resident_Commissioner_Jenniffer_Gonzalez.jpg/1024px-Official_portrait_of_Resident_Commissioner_Jenniffer_Gonzalez.jpg"
     },
     "cabinet": [
       {
-        "role_description": "Acts as the Governor's chief of staff and is responsible for the official records of the Commonwealth.",
         "position": "Secretary of State",
         "name": "To Be Announced",
+        "role_description": "Acts as the Governor's chief of staff, manages official records, and serves as acting governor in the Governor's absence.",
         "party": "Non-partisan (Appointed)",
-        "profile_picture_url": ""
+        "profile_picture_url": "https://via.placeholder.com/150"
       },
       {
         "position": "Chief of Staff",
-        "role_description": "Manages the Governor's office and coordinates the activities of the cabinet.",
         "name": "Francisco Domenech",
+        "role_description": "Manages the Governor's office, coordinates the activities of the cabinet, and serves as a senior advisor.",
         "party": "Non-partisan (Appointed)",
-        "profile_picture_url": ""
+        "profile_picture_url": "https://via.placeholder.com/150"
       },
       {
         "position": "Secretary of Justice",
         "name": "To Be Announced",
         "role_description": "Serves as the chief legal officer of the Commonwealth, advising the Governor and representing the government in legal matters.",
         "party": "Non-partisan (Appointed)",
-        "profile_picture_url": ""
+        "profile_picture_url": "https://via.placeholder.com/150"
       },
       {
         "position": "Secretary of the Treasury",
         "name": "To Be Announced",
-        "role_description": "Manages the public finances of Puerto Rico, including tax collection and budget administration.",
+        "role_description": "Manages the public finances of Puerto Rico, including tax collection, budget administration, and fiscal policy.",
         "party": "Non-partisan (Appointed)",
-        "profile_picture_url": ""
+        "profile_picture_url": "https://via.placeholder.com/150"
       },
       {
         "position": "Secretary of Education",
         "name": "To Be Announced",
-        "role_description": "Oversees the public education system, including curriculum development and school administration.",
+        "role_description": "Oversees the public education system, including curriculum development, school administration, and teacher certification.",
         "party": "Non-partisan (Appointed)",
-        "profile_picture_url": ""
+        "profile_picture_url": "https://via.placeholder.com/150"
       },
       {
         "position": "Secretary of Health",
         "name": "To Be Announced",
-        "role_description": "Responsible for public health policies, healthcare services, and disease prevention.",
+        "role_description": "Responsible for public health policies, healthcare services, disease prevention, and managing public hospitals.",
         "party": "Non-partisan (Appointed)",
-        "profile_picture_url": ""
+        "profile_picture_url": "https://via.placeholder.com/150"
+      },
+      {
+        "position": "Secretary of Labor and Human Resources",
+        "name": "To Be Announced",
+        "role_description": "Oversees labor laws, workforce development programs, unemployment benefits, and workplace safety.",
+        "party": "Non-partisan (Appointed)",
+        "profile_picture_url": "https://via.placeholder.com/150"
+      },
+      {
+        "position": "Secretary of Economic Development and Commerce",
+        "name": "To Be Announced",
+        "role_description": "Promotes economic growth, attracts investment, and supports local businesses and industries.",
+        "party": "Non-partisan (Appointed)",
+        "profile_picture_url": "https://via.placeholder.com/150"
       },
       {
         "position": "Director, Office of Management and Budget (OMB)",
         "name": "Orlando Rivera Berrios",
-        "role_description": "Assists the Governor in preparing the budget and overseeing the management of government agencies.",
+        "role_description": "Assists the Governor in preparing the annual budget and oversees the management and efficiency of government agencies.",
         "party": "Non-partisan (Appointed)",
-        "profile_picture_url": ""
+        "profile_picture_url": "https://via.placeholder.com/150"
       },
       {
         "position": "Director, PR Federal Affairs Administration (PRFAA)",
         "name": "Gabriella Boffelli",
-        "role_description": "Represents Puerto Rico's interests before the U.S. federal government and Congress.",
+        "role_description": "Represents Puerto Rico's interests before the U.S. federal government, Congress, and federal agencies.",
         "party": "Non-partisan (Appointed)",
-        "profile_picture_url": ""
+        "profile_picture_url": "https://via.placeholder.com/150"
       }
     ]
   },
   "legislative_branch": {
     "name": "Legislative Branch",
-    "description": "The Legislative Branch, composed of the Senate and the House of Representatives, is responsible for enacting laws, approving the budget, and overseeing the executive branch.",
+    "description": "The Legislative Branch, composed of the Senate and the House of Representatives, is responsible for enacting laws, approving the budget, and providing oversight of the executive branch.",
     "senate": {
       "name": "Senate of Puerto Rico",
-      "description": "The upper house of the Legislative Assembly, with 27 members (16 by district, 11 at-large).",
+      "description": "The upper house of the Legislative Assembly, consisting of 27 members who serve four-year terms. Sixteen are elected from senatorial districts, and eleven are elected at-large.",
       "leadership": [
         {
           "name": "Thomas Rivera Schatz",
           "position": "President of the Senate",
-          "role_description": "Presides over the Senate sessions and is the leader of the majority party in the Senate.",
+          "role_description": "Presides over the Senate sessions, sets the legislative agenda, and is the leader of the majority party in the Senate.",
           "party": "PNP",
           "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Foto_oficial_Hon._Thomas_Rivera_Schatz_500x599.jpg"
         },
         {
           "name": "Carmelo Ríos Santiago",
           "position": "President pro tempore",
-          "role_description": "Assists the President of the Senate and presides in their absence.",
+          "role_description": "Assists the President of the Senate and presides over the Senate in their absence.",
           "party": "PNP",
           "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Carmelo_R%C3%ADos_2021.jpg"
         },
         {
           "name": "Gregorio Matías Rosario",
           "position": "Majority Leader",
-          "role_description": "Leads the majority party in the Senate, responsible for legislative strategy and scheduling.",
+          "role_description": "Leads the legislative strategy for the majority party in the Senate, schedules bills for debate, and works to advance the party's agenda.",
           "party": "PNP",
-          "profile_picture_url": ""
+          "profile_picture_url": "https://via.placeholder.com/150"
         },
         {
           "name": "Luis Javier Hernández Ortiz",
           "position": "Minority Leader",
-          "role_description": "Leads the minority party in the Senate, representing their views and legislative agenda.",
+          "role_description": "Leads the minority party in the Senate, representing their views, negotiating with the majority, and offering alternative legislative proposals.",
           "party": "PPD",
-          "profile_picture_url": ""
+          "profile_picture_url": "https://via.placeholder.com/150"
         }
       ],
       "senators": [
-        {
-          "district": "I - San Juan",
-          "name": "Juan Morales Rodríguez",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "I - San Juan",
-          "name": "Nitza Morán",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "II - Bayamón",
-          "name": "Migdalia Padilla Alvelo",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "II - Bayamón",
-          "name": "Carmelo Ríos Santiago",
-          "party": "PNP",
-          "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Carmelo_R%C3%ADos_2021.jpg"
-        },
-        {
-          "district": "III - Arecibo",
-          "name": "Gabriel Gaby Gonzáles",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "III - Arecibo",
-          "name": "Brenda Pérez Soto",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "IV - Mayagüez",
-          "name": "Karen M. Román Rodríguez",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "IV - Mayagüez",
-          "name": "Jeison Rosa Ramos",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "V - Ponce",
-          "name": "Jamie Barlucea",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "V - Ponce",
-          "name": "Marially González",
-          "party": "PPD",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "VI - Guayama",
-          "name": "Wilmer Reyes Berrios",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "VI - Guayama",
-          "name": "Rafael Santos Ortiz",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "VII - Humacao",
-          "name": "Luis Daniel Colón La Santa",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "VII - Humacao",
-          "name": "Wanda Soto",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "VIII - Carolina",
-          "name": "Marissa Jiménez",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "VIII - Carolina",
-          "name": "Hector Joaquin Sanchez Alvarez",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "At-Large",
-          "name": "Thomas Rivera Schatz",
-          "party": "PNP",
-          "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Foto_oficial_Hon._Thomas_Rivera_Schatz_500x599.jpg"
-        },
-        {
-          "district": "At-Large",
-          "name": "Gregorio Matias Rosario",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "At-Large",
-          "name": "Ángel Antonio Toledo López",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "At-Large",
-          "name": "Roxanna Soto Aguilú",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "At-Large",
-          "name": "Luis Javier Hernández Ortiz",
-          "party": "PPD",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "At-Large",
-          "name": "Ada Álvarez Conde",
-          "party": "PPD",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "At-Large",
-          "name": "José Santiago Rivera",
-          "party": "PPD",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "At-Large",
-          "name": "María De Lourdes Santiago",
-          "party": "PIP",
-          "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Member_of_the_Puerto_Rico_Senate_Mar%C3%ADa_de_Lourdes_Santiago_Negr%C3%B3n_in_2025_%28cropped%29.png/432px-Member_of_the_Puerto_Rico_Senate_Mar%C3%ADa_de_Lourdes_Santiago_Negr%C3%B3n_in_2025_%28cropped%29.png"
-        },
-        {
-          "district": "At-Large",
-          "name": "Adrián González Costa",
-          "party": "PIP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "At-Large",
-          "name": "Joanne Rodríguez Veve",
-          "party": "PD",
-          "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Member_of_the_Puerto_Rico_Senate_Joanne_Marie_Rodr%C3%ADguez_Veve_in_2025.png/500px-Member_of_the_Puerto_Rico_Senate_Joanne_Marie_Rodr%C3%ADguez_Veve_in_2025.png"
-        },
-        {
-          "district": "At-Large",
-          "name": "Eliezer Molina Pérez",
-          "party": "Independent",
-          "profile_picture_url": ""
-        }
+        { "district": "I - San Juan", "name": "Juan Morales Rodríguez", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "I - San Juan", "name": "Nitza Morán", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "II - Bayamón", "name": "Migdalia Padilla Alvelo", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "II - Bayamón", "name": "Carmelo Ríos Santiago", "party": "PNP", "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Carmelo_R%C3%ADos_2021.jpg" },
+        { "district": "III - Arecibo", "name": "Gabriel Gaby Gonzáles", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "III - Arecibo", "name": "Brenda Pérez Soto", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "IV - Mayagüez", "name": "Karen M. Román Rodríguez", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "IV - Mayagüez", "name": "Jeison Rosa Ramos", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "V - Ponce", "name": "Jamie Barlucea", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "V - Ponce", "name": "Marially González", "party": "PPD", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "VI - Guayama", "name": "Wilmer Reyes Berrios", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "VI - Guayama", "name": "Rafael Santos Ortiz", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "VII - Humacao", "name": "Luis Daniel Colón La Santa", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "VII - Humacao", "name": "Wanda Soto", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "VIII - Carolina", "name": "Marissa Jiménez", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "VIII - Carolina", "name": "Hector Joaquin Sanchez Alvarez", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "At-Large", "name": "Thomas Rivera Schatz", "party": "PNP", "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Foto_oficial_Hon._Thomas_Rivera_Schatz_500x599.jpg" },
+        { "district": "At-Large", "name": "Gregorio Matias Rosario", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "At-Large", "name": "Ángel Antonio Toledo López", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "At-Large", "name": "Roxanna Soto Aguilú", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "At-Large", "name": "Luis Javier Hernández Ortiz", "party": "PPD", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "At-Large", "name": "Ada Álvarez Conde", "party": "PPD", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "At-Large", "name": "José Santiago Rivera", "party": "PPD", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "At-Large", "name": "María De Lourdes Santiago", "party": "PIP", "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Member_of_the_Puerto_Rico_Senate_Mar%C3%ADa_de_Lourdes_Santiago_Negr%C3%B3n_in_2025_%28cropped%29.png/432px-Member_of_the_Puerto_Rico_Senate_Mar%C3%ADa_de_Lourdes_Santiago_Negr%C3%B3n_in_2025_%28cropped%29.png" },
+        { "district": "At-Large", "name": "Adrián González Costa", "party": "PIP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "At-Large", "name": "Joanne Rodríguez Veve", "party": "PD", "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Member_of_the_Puerto_Rico_Senate_Joanne_Marie_Rodr%C3%ADguez_Veve_in_2025.png/500px-Member_of_the_Puerto_Rico_Senate_Joanne_Marie_Rodr%C3%ADguez_Veve_in_2025.png" },
+        { "district": "At-Large", "name": "Eliezer Molina Pérez", "party": "Independent", "profile_picture_url": "https://via.placeholder.com/150" }
       ]
     },
     "house_of_representatives": {
       "name": "House of Representatives of Puerto Rico",
-      "description": "The lower house of the Legislative Assembly, with 51 members (40 by district, 11 at-large).",
+      "description": "The lower house of the Legislative Assembly, consisting of 51 members who serve four-year terms. Forty are elected from representative districts, and eleven are elected at-large.",
       "leadership": [
         {
           "name": "Carlos 'Johnny' Méndez Núñez",
           "position": "Speaker of the House",
-          "role_description": "Presides over the House sessions and is the leader of the majority party in the House.",
+          "role_description": "Presides over the House sessions, appoints committee chairs, and is the leader of the majority party in the House.",
           "party": "PNP",
           "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/President_of_the_Puerto_Rico_House_of_Representatives_Carlos_%E2%80%9CJohnny%E2%80%9D_M%C3%A9ndez_N%C3%BA%C3%B1ez_%28cropped%29.jpg/819px-President_of_the_Puerto_Rico_House_of_Representatives_Carlos_%E2%80%9CJohnny%E2%80%9D_M%C3%A9ndez_N%C3%BA%C3%B1ez_%28cropped%29.jpg"
         },
         {
           "name": "Angel Peña Ramírez",
           "position": "Speaker pro tempore",
-          "role_description": "Assists the Speaker of the House and presides in their absence.",
+          "role_description": "Assists the Speaker of the House and presides over the House in their absence.",
           "party": "PNP",
-          "profile_picture_url": ""
+          "profile_picture_url": "https://via.placeholder.com/150"
         },
         {
           "name": "José 'Pichy' Torres Zamora",
           "position": "Majority Leader",
-          "role_description": "Leads the majority party in the House, responsible for legislative strategy and scheduling.",
+          "role_description": "Leads the legislative strategy for the majority party in the House and works to build consensus on key bills.",
           "party": "PNP",
-          "profile_picture_url": ""
+          "profile_picture_url": "https://via.placeholder.com/150"
         },
         {
           "name": "Héctor Ferrer Santiago",
           "position": "Minority Leader",
-          "role_description": "Leads the minority party in the House, representing their views and legislative agenda.",
+          "role_description": "Leads the minority party in the House, articulating the party's position and serving as the main opposition voice.",
           "party": "PPD",
           "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/H%C3%A9ctor_Ferrer_Santiago_2021.jpg"
         }
       ],
       "representatives": [
-        {
-          "district": "1 - San Juan",
-          "name": "Eddie Charbonier Chinea",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "2 - San Juan",
-          "name": "Ricardo Rey Ocasio Ramos",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "3 - San Juan",
-          "name": "José Hernández Concepción",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "4 - San Juan",
-          "name": "Víctor Parés Otero",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "5 - San Juan",
-          "name": "Jorge Navarro Suárez",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "6 - Guaynabo",
-          "name": "Ángel Morey Noble",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "7 - Toa Alta",
-          "name": "Luis Pérez Ortiz",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "8 - Bayamón",
-          "name": "Yashira Lebrón Rodríguez",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "9 - Toa Baja",
-          "name": "Félix Pacheco",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "10 - Toa Baja",
-          "name": "Pedro Santiago Guzman",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "11 - Dorado",
-          "name": "Elinette González Aguayo",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "12 - Morovis",
-          "name": "Edgardo Feliciano",
-          "party": "PPD",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "13 - Manatí",
-          "name": "Jerry Zahamir Nieves Rosario",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "14 - Arecibo",
-          "name": "Edgar Robles",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "15 - Hatillo",
-          "name": "Joel Franqui Atiles",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "16 - Isabela",
-          "name": "Reinaldo Figueroa",
-          "party": "PPD",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "17 - Aguadilla",
-          "name": "Wilson Román López",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "18 - Moca",
-          "name": "Odalys González González",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "19 - Mayagüez",
-          "name": "Lilibeth Rosas",
-          "party": "PPD",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "20 - San Germán",
-          "name": "Emilio Carlo",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "21 - Lajas",
-          "name": "Omayra Martínez",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "22 - Utuado",
-          "name": "Joe Colón",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "23 - Yauco",
-          "name": "Ensol Rodriguez Yorres",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "24 - Ponce",
-          "name": "Ángel Fourquet Cordero",
-          "party": "PPD",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "25 - Ponce",
-          "name": "Domingo Torres García",
-          "party": "PPD",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "26 - Juana Díaz",
-          "name": "Luis Jiménez Torres",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "27 - Coamo",
-          "name": "Estrella Martínez",
-          "party": "PPD",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "28 - Barranquitas",
-          "name": "Juan José Díaz",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "29 - Cidra",
-          "name": "Gretchen Hau",
-          "party": "PPD",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "30 - Caguas",
-          "name": "Ángel Peña Ramírez",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "31 - Caguas",
-          "name": "Roberto López Román",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "32 - Caguas",
-          "name": "Jorge Quiles",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "33 - Las Piedras",
-          "name": "Tatiana tru-v",
-          "party": "PPD",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "34 - Yabucoa",
-          "name": "Juan G. Gierbolini",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "35 - Humacao",
-          "name": "Sonia A. Pacheco",
-          "party": "PPD",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "36 - Fajardo",
-          "name": "Carlos 'Johnny' Méndez Núñez",
-          "party": "PNP",
-          "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/President_of_the_Puerto_Rico_House_of_Representatives_Carlos_%E2%80%9CJohnny%E2%80%9D_M%C3%A9ndez_N%C3%BA%C3%B1ez_%28cropped%29.jpg/819px-President_of_the_Puerto_Rico_House_of_Representatives_Carlos_%E2%80%9CJohnny%E2%80%9D_M%C3%A9ndez_N%C3%BA%C3%B1ez_%28cropped%29.jpg"
-        },
-        {
-          "district": "37 - Río Grande",
-          "name": "José H. Conoc",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "38 - Trujillo Alto",
-          "name": "Javier Aponte Dalmau",
-          "party": "PPD",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "39 - Carolina",
-          "name": "Roberto J. Báez",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "40 - Carolina",
-          "name": "James Catalá",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "At-Large",
-          "name": "José Aponte Hernández",
-          "party": "PNP",
-          "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Jos%C3%A9_Aponte_Hern%C3%A1ndez_2021.jpg/664px-Jos%C3%A9_Aponte_Hern%C3%A1ndez_2021.jpg"
-        },
-        {
-          "district": "At-Large",
-          "name": "Héctor Ferrer Santiago",
-          "party": "PPD",
-          "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/H%C3%A9ctor_Ferrer_Santiago_2021.jpg"
-        },
-        {
-          "district": "At-Large",
-          "name": "Adriana Gutiérrez Colón",
-          "party": "PIP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "At-Large",
-          "name": "Denis Márquez Lebrón",
-          "party": "PIP",
-          "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Representante_Denis_M%C3%A1rquez_Lebr%C3%B3n_2021.jpg"
-        },
-        {
-          "district": "At-Large",
-          "name": "José Pérez Cordero",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "At-Large",
-          "name": "Tatiana Pérez Ramírez",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "At-Large",
-          "name": "Nelie Lebron Robels",
-          "party": "PIP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "At-Large",
-          "name": "Gabriel Rodríguez Aguiló",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "At-Large",
-          "name": "Ramón Torres",
-          "party": "PPD",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "At-Large",
-          "name": "José Torres Zamora",
-          "party": "PNP",
-          "profile_picture_url": ""
-        },
-        {
-          "district": "At-Large",
-          "name": "Swanny Enit Vargas",
-          "party": "PPD",
-          "profile_picture_url": ""
-        }
+        { "district": "1 - San Juan", "name": "Eddie Charbonier Chinea", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "2 - San Juan", "name": "Ricardo Rey Ocasio Ramos", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "3 - San Juan", "name": "José Hernández Concepción", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "4 - San Juan", "name": "Víctor Parés Otero", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "5 - San Juan", "name": "Jorge Navarro Suárez", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "6 - Guaynabo", "name": "Ángel Morey Noble", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "7 - Toa Alta", "name": "Luis Pérez Ortiz", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "8 - Bayamón", "name": "Yashira Lebrón Rodríguez", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "9 - Toa Baja", "name": "Félix Pacheco", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "10 - Toa Baja", "name": "Pedro Santiago Guzman", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "11 - Dorado", "name": "Elinette González Aguayo", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "12 - Morovis", "name": "Edgardo Feliciano", "party": "PPD", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "13 - Manatí", "name": "Jerry Zahamir Nieves Rosario", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "14 - Arecibo", "name": "Edgar Robles", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "15 - Hatillo", "name": "Joel Franqui Atiles", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "16 - Isabela", "name": "Reinaldo Figueroa", "party": "PPD", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "17 - Aguadilla", "name": "Wilson Román López", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "18 - Moca", "name": "Odalys González González", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "19 - Mayagüez", "name": "Lilibeth Rosas", "party": "PPD", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "20 - San Germán", "name": "Emilio Carlo", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "21 - Lajas", "name": "Omayra Martínez", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "22 - Utuado", "name": "Joe Colón", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "23 - Yauco", "name": "Ensol Rodriguez Yorres", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "24 - Ponce", "name": "Ángel Fourquet Cordero", "party": "PPD", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "25 - Ponce", "name": "Domingo Torres García", "party": "PPD", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "26 - Juana Díaz", "name": "Luis Jiménez Torres", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "27 - Coamo", "name": "Estrella Martínez", "party": "PPD", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "28 - Barranquitas", "name": "Juan José Díaz", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "29 - Cidra", "name": "Gretchen Hau", "party": "PPD", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "30 - Caguas", "name": "Ángel Peña Ramírez", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "31 - Caguas", "name": "Roberto López Román", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "32 - Caguas", "name": "Jorge Quiles", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "33 - Las Piedras", "name": "Tatiana tru-v", "party": "PPD", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "34 - Yabucoa", "name": "Juan G. Gierbolini", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "35 - Humacao", "name": "Sonia A. Pacheco", "party": "PPD", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "36 - Fajardo", "name": "Carlos 'Johnny' Méndez Núñez", "party": "PNP", "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/President_of_the_Puerto_Rico_House_of_Representatives_Carlos_%E2%80%9CJohnny%E2%80%9D_M%C3%A9ndez_N%C3%BA%C3%B1ez_%28cropped%29.jpg/819px-President_of_the_Puerto_Rico_House_of_Representatives_Carlos_%E2%80%9CJohnny%E2%80%9D_M%C3%A9ndez_N%C3%BA%C3%B1ez_%28cropped%29.jpg" },
+        { "district": "37 - Río Grande", "name": "José H. Conoc", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "38 - Trujillo Alto", "name": "Javier Aponte Dalmau", "party": "PPD", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "39 - Carolina", "name": "Roberto J. Báez", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "40 - Carolina", "name": "James Catalá", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "At-Large", "name": "José Aponte Hernández", "party": "PNP", "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Jos%C3%A9_Aponte_Hern%C3%A1ndez_2021.jpg/664px-Jos%C3%A9_Aponte_Hern%C3%A1ndez_2021.jpg" },
+        { "district": "At-Large", "name": "Héctor Ferrer Santiago", "party": "PPD", "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/H%C3%A9ctor_Ferrer_Santiago_2021.jpg" },
+        { "district": "At-Large", "name": "Adriana Gutiérrez Colón", "party": "PIP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "At-Large", "name": "Denis Márquez Lebrón", "party": "PIP", "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Representante_Denis_M%C3%A1rquez_Lebr%C3%B3n_2021.jpg" },
+        { "district": "At-Large", "name": "José Pérez Cordero", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "At-Large", "name": "Tatiana Pérez Ramírez", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "At-Large", "name": "Nelie Lebron Robels", "party": "PIP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "At-Large", "name": "Gabriel Rodríguez Aguiló", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "At-Large", "name": "Ramón Torres", "party": "PPD", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "At-Large", "name": "José Torres Zamora", "party": "PNP", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "district": "At-Large", "name": "Swanny Enit Vargas", "party": "PPD", "profile_picture_url": "https://via.placeholder.com/150" }
       ]
     }
   },
   "judicial_branch": {
     "name": "Judicial Branch",
-    "description": "The Judicial Branch interprets the laws of Puerto Rico and is composed of the Supreme Court, Court of Appeals, and Court of First Instance.",
+    "description": "The Judicial Branch interprets the laws of Puerto Rico. It is composed of the Supreme Court, the Court of Appeals, and the Courts of First Instance. Judges are appointed by the Governor and confirmed by the Senate.",
     "supreme_court": {
       "name": "Supreme Court of Puerto Rico",
-      "description": "The highest court in Puerto Rico, responsible for interpreting the Constitution and laws of the Commonwealth.",
+      "description": "The highest court in Puerto Rico, responsible for interpreting the Constitution and laws of the Commonwealth. Its decisions are final unless a federal question is involved.",
       "chief_justice": {
         "name": "Maite Oronoz Rodríguez",
         "appointment_year": 2016,
-        "role_description": "The presiding judge of the Supreme Court, responsible for its administration and leading judicial deliberations.",
+        "role_description": "The presiding judge of the Supreme Court, responsible for its administration and for leading judicial deliberations.",
         "party": "Non-partisan (Appointed)",
         "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hon-Maite-Oronoz-Rodriguez.jpg/1024px-Hon-Maite-Oronoz-Rodriguez.jpg"
       },
       "associate_justices": [
-        {
-          "name": "Rafael Martínez Torres",
-          "appointment_year": 2009,
-          "party": "Non-partisan (Appointed)",
-          "role_description": "A member of the Supreme Court, participating in the review and decision-making of cases.",
-          "profile_picture_url": ""
-        },
-        {
-          "name": "Mildred Pabón",
-          "appointment_year": 2009,
-          "party": "Non-partisan (Appointed)",
-          "role_description": "A member of the Supreme Court, participating in the review and decision-making of cases.",
-          "profile_picture_url": ""
-        },
-        {
-          "name": "Erick Kolthoff",
-          "appointment_year": 2009,
-          "party": "Non-partisan (Appointed)",
-          "role_description": "A member of the Supreme Court, participating in the review and decision-making of cases.",
-          "profile_picture_url": ""
-        },
-        {
-          "name": "Roberto Feliberti Cintrón",
-          "appointment_year": 2011,
-          "party": "Non-partisan (Appointed)",
-          "role_description": "A member of the Supreme Court, participating in the review and decision-making of cases.",
-          "profile_picture_url": ""
-        },
-        {
-          "name": "Luis Estrella Martínez",
-          "appointment_year": 2011,
-          "party": "Non-partisan (Appointed)",
-          "role_description": "A member of the Supreme Court, participating in the review and decision-making of cases.",
-          "profile_picture_url": ""
-        },
-        {
-          "name": "Angel Colón-Pérez",
-          "appointment_year": 2016,
-          "party": "Non-partisan (Appointed)",
-          "role_description": "A member of the Supreme Court, participating in the review and decision-making of cases.",
-          "profile_picture_url": ""
-        },
-        {
-          "name": "Camille Rivera Pérez",
-          "appointment_year": 2025,
-          "party": "Non-partisan (Appointed)",
-          "role_description": "A member of the Supreme Court, participating in the review and decision-making of cases.",
-          "profile_picture_url": ""
-        },
-        {
-          "name": "Raúl Candelario López",
-          "appointment_year": 2025,
-          "party": "Non-partisan (Appointed)",
-          "role_description": "A member of the Supreme Court, participating in the review and decision-making of cases.",
-          "profile_picture_url": ""
-        }
+        { "name": "Rafael Martínez Torres", "appointment_year": 2009, "party": "Non-partisan (Appointed)", "role_description": "A member of the Supreme Court, participating in the review and decision-making of cases.", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "name": "Mildred Pabón", "appointment_year": 2009, "party": "Non-partisan (Appointed)", "role_description": "A member of the Supreme Court, participating in the review and decision-making of cases.", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "name": "Erick Kolthoff", "appointment_year": 2009, "party": "Non-partisan (Appointed)", "role_description": "A member of the Supreme Court, participating in the review and decision-making of cases.", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "name": "Roberto Feliberti Cintrón", "appointment_year": 2011, "party": "Non-partisan (Appointed)", "role_description": "A member of the Supreme Court, participating in the review and decision-making of cases.", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "name": "Luis Estrella Martínez", "appointment_year": 2011, "party": "Non-partisan (Appointed)", "role_description": "A member of the Supreme Court, participating in the review and decision-making of cases.", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "name": "Angel Colón-Pérez", "appointment_year": 2016, "party": "Non-partisan (Appointed)", "role_description": "A member of the Supreme Court, participating in the review and decision-making of cases.", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "name": "Camille Rivera Pérez", "appointment_year": 2025, "party": "Non-partisan (Appointed)", "role_description": "A member of the Supreme Court, participating in the review and decision-making of cases.", "profile_picture_url": "https://via.placeholder.com/150" },
+        { "name": "Raúl Candelario López", "appointment_year": 2025, "party": "Non-partisan (Appointed)", "role_description": "A member of the Supreme Court, participating in the review and decision-making of cases.", "profile_picture_url": "https://via.placeholder.com/150" }
       ]
     }
   },
   "federal_representation": {
     "name": "Federal Representation",
-    "description": "Puerto Rico is represented in the U.S. House of Representatives by a Resident Commissioner, who can speak but not vote on the House floor.",
+    "description": "As a U.S. territory, Puerto Rico is represented in the U.S. House of Representatives by a Resident Commissioner, who has a voice in Congress but cannot vote on the final passage of legislation.",
     "resident_commissioner": {
       "name": "Pablo José Hernández Rivera",
       "position": "Resident Commissioner",
-      "role_description": "Represents Puerto Rico in the U.S. House of Representatives, advocating for the island's interests.",
+      "role_description": "Represents Puerto Rico in the U.S. House of Representatives, advocating for the island's interests and serving on congressional committees.",
       "party": "Popular Democratic Party (PPD)",
       "profile_picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hern%C3%A1ndez_Rivera_Pablo_119th_Congress.jpg/1024px-Hern%C3%A1ndez_Rivera_Pablo_119th_Congress.jpg"
     }

@@ -7,33 +7,92 @@
     "area_sq_mi": 76.93,
     "capital": true,
     "founding_year": 1521,
-    "brief_history": "Founded by Juan Ponce de León, San Juan is the oldest continuously inhabited European-established settlement in Puerto Rico and the second oldest in the Americas.",
-    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_San_Juan%2C_Puerto_Rico.svg/1280px-Flag_of_San_Juan%2C_Puerto_Rico.svg.png",
-    "seal_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Escudo_de_San_Juan%2C_Puerto_Rico.svg/800px-Escudo_de_San_Juan%2C_Puerto_Rico.svg.png"
+    "brief_history": "Founded by Spanish colonists in 1521, San Juan is the oldest city under U.S. jurisdiction and the capital of Puerto Rico. It is known for its rich history, colonial architecture, and vibrant culture.",
+    "flag_url": "https://www.pr.gov/sites/default/files/Banderas/san-juan.svg",
+    "seal_url": "https://www.pr.gov/sites/default/files/Escudos/san-juan.svg"
   },
   {
     "id": 2,
-    "name": "Ponce",
-    "region": "Sur",
-    "population": 137491,
-    "area_sq_mi": 115.98,
+    "name": "Bayamón",
+    "region": "Metro",
+    "population": 185187,
+    "area_sq_mi": 44.56,
     "capital": false,
-    "founding_year": 1692,
-    "brief_history": "Known as the 'Pearl of the South', Ponce is Puerto Rico's second-largest city and a major cultural and economic center.",
-    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Ponce%2C_Puerto_Rico.svg/1280px-Flag_of_Ponce%2C_Puerto_Rico.svg.png",
-    "seal_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Escudo_de_Ponce%2C_Puerto_Rico.svg/800px-Escudo_de_Ponce%2C_Puerto_Rico.svg.png"
+    "founding_year": 1772,
+    "brief_history": "Known as \"El Pueblo del Chicharrón,\" Bayamón is a major suburban city and a hub for commerce, industry, and sports.",
+    "flag_url": "https://www.pr.gov/sites/default/files/Banderas/bayamon.svg",
+    "seal_url": "https://www.pr.gov/sites/default/files/Escudos/bayamon.svg"
   },
   {
     "id": 3,
+    "name": "Carolina",
+    "region": "Metro",
+    "population": 154815,
+    "area_sq_mi": 60.36,
+    "capital": false,
+    "founding_year": 1857,
+    "brief_history": "Home to the Luis Muñoz Marín International Airport, Carolina is known as the \"Land of Giants\" and is a major center for tourism and manufacturing.",
+    "flag_url": "https://www.pr.gov/sites/default/files/Banderas/carolina.svg",
+    "seal_url": "https://www.pr.gov/sites/default/files/Escudos/carolina.svg"
+  },
+  {
+    "id": 4,
+    "name": "Ponce",
+    "region": "Sur (South)",
+    "population": 137491,
+    "area_sq_mi": 194.39,
+    "capital": false,
+    "founding_year": 1692,
+    "brief_history": "Known as the \"Pearl of the South,\" Ponce is renowned for its unique colonial architecture, world-class art museum, and strong cultural identity.",
+    "flag_url": "https://www.pr.gov/sites/default/files/Banderas/ponce.svg",
+    "seal_url": "https://www.pr.gov/sites/default/files/Escudos/ponce.svg"
+  },
+  {
+    "id": 5,
+    "name": "Caguas",
+    "region": "Centro-Oriental (Central-Eastern)",
+    "population": 127244,
+    "area_sq_mi": 58.71,
+    "capital": false,
+    "founding_year": 1775,
+    "brief_history": "Located in the central-eastern region, Caguas is known as the \"Heart and Center of Puerto Rico\" and is a major commercial and cultural hub.",
+    "flag_url": "https://www.pr.gov/sites/default/files/Banderas/caguas.svg",
+    "seal_url": "https://www.pr.gov/sites/default/files/Escudos/caguas.svg"
+  },
+  {
+    "id": 6,
+    "name": "Guaynabo",
+    "region": "Metro",
+    "population": 89780,
+    "area_sq_mi": 27.13,
+    "capital": false,
+    "founding_year": 1769,
+    "brief_history": "An affluent suburb of San Juan, Guaynabo is known for its modern infrastructure, commercial centers, and historical ruins from the island's first Spanish settlement.",
+    "flag_url": "https://www.pr.gov/sites/default/files/Banderas/guaynabo.svg",
+    "seal_url": "https://www.pr.gov/sites/default/files/Escudos/guaynabo.svg"
+  },
+  {
+    "id": 7,
+    "name": "Arecibo",
+    "region": "Norte (North)",
+    "population": 87754,
+    "area_sq_mi": 178.6,
+    "capital": false,
+    "founding_year": 1616,
+    "brief_history": "Famous for the Arecibo Observatory, this municipality on the northern coast is a center for scientific research, agriculture, and pharmaceuticals.",
+    "flag_url": "https://www.pr.gov/sites/default/files/Banderas/arecibo.svg",
+    "seal_url": "https://www.pr.gov/sites/default/files/Escudos/arecibo.svg"
+  },
+  {
+    "id": 8,
     "name": "Mayagüez",
-    "region": "Oeste",
+    "region": "Oeste (West)",
     "population": 73077,
-    "area_sq_mi": 76.16,
+    "area_sq_mi": 201.1,
     "capital": false,
     "founding_year": 1760,
-    "brief_history": "Often called 'La Sultana del Oeste' (The Sultaness of the West), Mayagüez is a significant port city and home to a major university campus.",
-    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Mayag%C3%BCez%2C_Puerto_Rico.svg/1280px-Flag_of_Mayag%C3%BCez%2C_Puerto_Rico.svg.png",
-    "seal_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Escudo_de_Mayag%C3%BCez%2C_Puerto_Rico.svg/800px-Escudo_de_Mayag%C3%BCez%2C_Puerto_Rico.svg.png"
+    "brief_history": "Known as the \"Sultana of the West,\" Mayagüez is the third-largest city and a major port. It is home to the University of Puerto Rico's Mayagüez Campus.",
+    "flag_url": "https://www.pr.gov/sites/default/files/Banderas/mayaguez.svg",
+    "seal_url": "https://www.pr.gov/sites/default/files/Escudos/mayaguez.svg"
   }
-  // ... add all 78 municipalities
 ]
