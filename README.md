@@ -1,7 +1,8 @@
 # Puerto Rico Government API
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+[![Deploy to Firebase on PR](https://github.com/joelromanpr/pr-goverment-api/actions/workflows/firebase-hosting-pull-request.yml/badge.svg)](https://github.com/joelromanpr/pr-goverment-api/actions/workflows/firebase-hosting-pull-request.yml)
+[![Deploy to Firebase on Merge](https://github.com/joelromanpr/pr-goverment-api/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/joelromanpr/pr-goverment-api/actions/workflows/firebase-hosting-merge.yml)
 An open-source API providing access to various public datasets from the Government of Puerto Rico. This project is intended for educational purposes, helping developers learn how to build applications that consume a RESTful API with real-world data.
 
 ## 📖 About The Project
@@ -123,7 +124,7 @@ If you prefer to host the data yourself or wish to contribute, you can clone the
 
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/your-username/pr-goverment-api.git
+    git clone https://github.com/joelromanpr/pr-goverment-api.git
     ```
 2.  Navigate into the project directory:
     ```sh
