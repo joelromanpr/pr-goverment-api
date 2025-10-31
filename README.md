@@ -1,8 +1,8 @@
 # Puerto Rico Government API
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Deploy to Firebase on PR](https://github.com/joelromanpr/pr-goverment-api/actions/workflows/firebase-hosting-pull-request.yml/badge.svg)](https://github.com/joelromanpr/pr-goverment-api/actions/workflows/firebase-hosting-pull-request.yml)
-[![Deploy to Firebase on Merge](https://github.com/joelromanpr/pr-goverment-api/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/joelromanpr/pr-goverment-api/actions/workflows/firebase-hosting-merge.yml)
+[![Deploy to Firebase on PR](https://github.com/joelromanpr/pr-government-api/actions/workflows/firebase-hosting-pull-request.yml/badge.svg)](https://github.com/joelromanpr/pr-goverment-api/actions/workflows/firebase-hosting-pull-request.yml)
+[![Deploy to Firebase on Merge](https://github.com/joelromanpr/pr-government-api/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/joelromanpr/pr-goverment-api/actions/workflows/firebase-hosting-merge.yml)
 An open-source API providing access to various public datasets from the Government of Puerto Rico. This project is intended for educational purposes, helping developers learn how to build applications that consume a RESTful API with real-world data.
 
 ## 📖 About The Project
@@ -26,7 +26,7 @@ This API is hosted on a free plan. To ensure it remains available for everyone, 
 
 Provides a structured overview of the executive, legislative, and judicial branches of the Puerto Rico government.
 
-*   **URL:** `https://pr-goverment-api.web.app/goverment.json`
+*   **URL:** `https://pr-government-api.web.app/government.json`
 
 <details>
   <summary>Click to see a sample of the JSON data</summary>
@@ -59,7 +59,7 @@ Provides a structured overview of the executive, legislative, and judicial branc
 
 A list of all 78 municipalities in Puerto Rico, including population, region, founding year, and historical context.
 
-*   **URL:** `https://pr-goverment-api.web.app/municipalities.json`
+*   **URL:** `https://pr-government-api.web.app/municipalities.json`
 
 <details>
   <summary>Click to see a sample of the JSON data</summary>
@@ -86,7 +86,7 @@ A list of all 78 municipalities in Puerto Rico, including population, region, fo
 
 A dataset of public schools, including location, type, student count, and special programs.
 
-*   **URL:** `https://pr-goverment-api.web.app/schools.json`
+*   **URL:** `https://pr-government-api.web.app/schools.json`
 
 <details>
   <summary>Click to see a sample of the JSON data</summary>
@@ -124,11 +124,11 @@ If you prefer to host the data yourself or wish to contribute, you can clone the
 
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/joelromanpr/pr-goverment-api.git
+    git clone https://github.com/joelromanpr/pr-government-api.git
     ```
 2.  Navigate into the project directory:
     ```sh
-    cd pr-goverment-api
+    cd pr-government-api
     ```
 3.  Install the dependencies:
     ```sh
